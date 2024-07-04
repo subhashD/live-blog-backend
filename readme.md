@@ -117,5 +117,3 @@ curl -X POST http://localhost:3000/api/blogs/<blogId>/posts \
 - This project is licensed under the MIT License.
 
 ---
-
-You can copy and paste this template into your `README.md` file for the Live Blog Backend. Adjust the placeholder text like `<your_mongo_uri>`, `<your_jwt_secret>`, and `<your_server_port>` with your actual configurations and information.
